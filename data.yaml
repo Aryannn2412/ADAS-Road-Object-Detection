@@ -1,0 +1,5 @@
+
+train: /content/road_object_detection/images/train
+val: /content/road_object_detection/images/val
+nc: 9
+names: ['pothole', 'bridge_ahead', 'right_hand_curve', 'left_hand_curve', 'speed_breaker', 'animal', 'pedestrian', 'name_board', 'vehicle']
